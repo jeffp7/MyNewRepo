@@ -1,2 +1,2 @@
 # MyNewRepo
-Training Repository
+Training Repository updated
